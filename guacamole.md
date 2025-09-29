@@ -4,5 +4,6 @@
 * limón
 * sal
 * ajo
+* chile
 ## Preparación
 
